@@ -1,0 +1,5 @@
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\02.Moon_Gravity\bin\Debug\02.Moon_Gravity.exe.config
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\02.Moon_Gravity\bin\Debug\02.Moon_Gravity.exe
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\02.Moon_Gravity\bin\Debug\02.Moon_Gravity.pdb
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\02.Moon_Gravity\obj\Debug\02.Moon_Gravity.exe
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\02.Moon_Gravity\obj\Debug\02.Moon_Gravity.pdb

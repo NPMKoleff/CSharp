@@ -1,0 +1,6 @@
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\10.Point_Circle_Rectangle\bin\Debug\10.Point_Circle_Rectangle.exe.config
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\10.Point_Circle_Rectangle\bin\Debug\10.Point_Circle_Rectangle.exe
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\10.Point_Circle_Rectangle\bin\Debug\10.Point_Circle_Rectangle.pdb
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\10.Point_Circle_Rectangle\obj\Debug\10.Point_Circle_Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\10.Point_Circle_Rectangle\obj\Debug\10.Point_Circle_Rectangle.exe
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\10.Point_Circle_Rectangle\obj\Debug\10.Point_Circle_Rectangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\07.Point_in_a_circle\bin\Debug\07.Point_in_a_circle.exe.config
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\07.Point_in_a_circle\bin\Debug\07.Point_in_a_circle.exe
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\07.Point_in_a_circle\bin\Debug\07.Point_in_a_circle.pdb
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\07.Point_in_a_circle\obj\Debug\07.Point_in_a_circle.csprojResolveAssemblyReference.cache
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\07.Point_in_a_circle\obj\Debug\07.Point_in_a_circle.exe
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\07.Point_in_a_circle\obj\Debug\07.Point_in_a_circle.pdb

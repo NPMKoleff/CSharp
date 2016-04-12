@@ -1,0 +1,5 @@
+c:\users\koleff\documents\visual studio 2013\Projects\Intro-Programming-Homework\Age\bin\Debug\Age.exe.config
+c:\users\koleff\documents\visual studio 2013\Projects\Intro-Programming-Homework\Age\bin\Debug\Age.exe
+c:\users\koleff\documents\visual studio 2013\Projects\Intro-Programming-Homework\Age\bin\Debug\Age.pdb
+c:\users\koleff\documents\visual studio 2013\Projects\Intro-Programming-Homework\Age\obj\Debug\Age.exe
+c:\users\koleff\documents\visual studio 2013\Projects\Intro-Programming-Homework\Age\obj\Debug\Age.pdb

@@ -1,0 +1,5 @@
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\03.Divide_by_7_and_5\bin\Debug\03.Divide_by_7_and_5.exe.config
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\03.Divide_by_7_and_5\bin\Debug\03.Divide_by_7_and_5.exe
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\03.Divide_by_7_and_5\bin\Debug\03.Divide_by_7_and_5.pdb
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\03.Divide_by_7_and_5\obj\Debug\03.Divide_by_7_and_5.exe
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\03.Divide_by_7_and_5\obj\Debug\03.Divide_by_7_and_5.pdb

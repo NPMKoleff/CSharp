@@ -1,0 +1,5 @@
+c:\users\koleff\documents\visual studio 2013\Projects\Homework-Data-Types-and-Variables\03.PrintTheASCIITable\bin\Debug\03.PrintTheASCIITable.exe.config
+c:\users\koleff\documents\visual studio 2013\Projects\Homework-Data-Types-and-Variables\03.PrintTheASCIITable\bin\Debug\03.PrintTheASCIITable.exe
+c:\users\koleff\documents\visual studio 2013\Projects\Homework-Data-Types-and-Variables\03.PrintTheASCIITable\bin\Debug\03.PrintTheASCIITable.pdb
+c:\users\koleff\documents\visual studio 2013\Projects\Homework-Data-Types-and-Variables\03.PrintTheASCIITable\obj\Debug\03.PrintTheASCIITable.exe
+c:\users\koleff\documents\visual studio 2013\Projects\Homework-Data-Types-and-Variables\03.PrintTheASCIITable\obj\Debug\03.PrintTheASCIITable.pdb

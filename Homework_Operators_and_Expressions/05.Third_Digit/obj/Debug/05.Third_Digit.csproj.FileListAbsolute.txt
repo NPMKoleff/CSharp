@@ -1,0 +1,6 @@
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\05.Third_Digit\bin\Debug\05.Third_Digit.exe.config
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\05.Third_Digit\bin\Debug\05.Third_Digit.exe
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\05.Third_Digit\bin\Debug\05.Third_Digit.pdb
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\05.Third_Digit\obj\Debug\05.Third_Digit.csprojResolveAssemblyReference.cache
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\05.Third_Digit\obj\Debug\05.Third_Digit.exe
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\05.Third_Digit\obj\Debug\05.Third_Digit.pdb

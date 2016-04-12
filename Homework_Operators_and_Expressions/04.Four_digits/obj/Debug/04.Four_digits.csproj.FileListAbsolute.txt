@@ -1,0 +1,5 @@
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\04.Four_digits\bin\Debug\04.Four_digits.exe.config
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\04.Four_digits\bin\Debug\04.Four_digits.exe
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\04.Four_digits\bin\Debug\04.Four_digits.pdb
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\04.Four_digits\obj\Debug\04.Four_digits.exe
+c:\users\koleff\documents\visual studio 2013\Projects\Homework_Operators_and_Expressions\04.Four_digits\obj\Debug\04.Four_digits.pdb

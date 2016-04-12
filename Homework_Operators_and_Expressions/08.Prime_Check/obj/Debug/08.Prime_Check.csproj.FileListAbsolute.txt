@@ -1,0 +1,6 @@
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\08.Prime_Check\bin\Debug\08.Prime_Check.exe.config
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\08.Prime_Check\bin\Debug\08.Prime_Check.exe
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\08.Prime_Check\bin\Debug\08.Prime_Check.pdb
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\08.Prime_Check\obj\Debug\08.Prime_Check.csprojResolveAssemblyReference.cache
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\08.Prime_Check\obj\Debug\08.Prime_Check.exe
+C:\Users\Koleff\Documents\Visual Studio 2013\Projects\Homework_Operators_and_Expressions\08.Prime_Check\obj\Debug\08.Prime_Check.pdb
