@@ -1,0 +1,6 @@
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\05.Quadratic_Equation\bin\Debug\05.Quadratic_Equation.exe.config
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\05.Quadratic_Equation\bin\Debug\05.Quadratic_Equation.exe
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\05.Quadratic_Equation\bin\Debug\05.Quadratic_Equation.pdb
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\05.Quadratic_Equation\obj\Debug\05.Quadratic_Equation.csprojResolveAssemblyReference.cache
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\05.Quadratic_Equation\obj\Debug\05.Quadratic_Equation.exe
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\05.Quadratic_Equation\obj\Debug\05.Quadratic_Equation.pdb

@@ -1,0 +1,5 @@
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\08.Numbers_From_1_to_N\bin\Debug\08.Numbers_From_1_to_N.exe.config
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\08.Numbers_From_1_to_N\bin\Debug\08.Numbers_From_1_to_N.exe
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\08.Numbers_From_1_to_N\bin\Debug\08.Numbers_From_1_to_N.pdb
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\08.Numbers_From_1_to_N\obj\Debug\08.Numbers_From_1_to_N.exe
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\08.Numbers_From_1_to_N\obj\Debug\08.Numbers_From_1_to_N.pdb

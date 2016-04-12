@@ -1,0 +1,6 @@
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\02.Company_Info\bin\Debug\02.Company_Info.exe.config
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\02.Company_Info\bin\Debug\02.Company_Info.exe
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\02.Company_Info\bin\Debug\02.Company_Info.pdb
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\02.Company_Info\obj\Debug\02.Company_Info.csprojResolveAssemblyReference.cache
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\02.Company_Info\obj\Debug\02.Company_Info.exe
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\02.Company_Info\obj\Debug\02.Company_Info.pdb

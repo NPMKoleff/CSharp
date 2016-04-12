@@ -1,0 +1,5 @@
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\09.Sum_Of_N_Numbers\bin\Debug\09.Sum_Of_N_Numbers.exe.config
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\09.Sum_Of_N_Numbers\bin\Debug\09.Sum_Of_N_Numbers.exe
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\09.Sum_Of_N_Numbers\bin\Debug\09.Sum_Of_N_Numbers.pdb
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\09.Sum_Of_N_Numbers\obj\Debug\09.Sum_Of_N_Numbers.exe
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\09.Sum_Of_N_Numbers\obj\Debug\09.Sum_Of_N_Numbers.pdb

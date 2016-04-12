@@ -1,0 +1,1 @@
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\07.Sum_of_5_Numbers\bin\Debug\07.Sum_of_5_Numbers.exe.config

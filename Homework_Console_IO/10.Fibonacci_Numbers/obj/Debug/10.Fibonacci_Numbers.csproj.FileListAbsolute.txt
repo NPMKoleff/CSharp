@@ -1,0 +1,6 @@
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\10.Fibonacci_Numbers\bin\Debug\10.Fibonacci_Numbers.exe.config
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\10.Fibonacci_Numbers\bin\Debug\10.Fibonacci_Numbers.exe
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\10.Fibonacci_Numbers\bin\Debug\10.Fibonacci_Numbers.pdb
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\10.Fibonacci_Numbers\obj\Debug\10.Fibonacci_Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\10.Fibonacci_Numbers\obj\Debug\10.Fibonacci_Numbers.exe
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\10.Fibonacci_Numbers\obj\Debug\10.Fibonacci_Numbers.pdb

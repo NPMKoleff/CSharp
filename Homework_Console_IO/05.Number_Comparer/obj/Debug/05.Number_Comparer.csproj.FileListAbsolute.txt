@@ -1,0 +1,6 @@
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\05.Number_Comparer\bin\Debug\05.Number_Comparer.exe.config
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\05.Number_Comparer\bin\Debug\05.Number_Comparer.exe
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\05.Number_Comparer\bin\Debug\05.Number_Comparer.pdb
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\05.Number_Comparer\obj\Debug\05.Number_Comparer.csprojResolveAssemblyReference.cache
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\05.Number_Comparer\obj\Debug\05.Number_Comparer.exe
+C:\Users\Koleff\Documents\GitHub\CSharp\Homework_Console_IO\05.Number_Comparer\obj\Debug\05.Number_Comparer.pdb
